@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f316896b.chunk.css",
+    "main.js": "/static/js/main.d28fa582.chunk.js",
+    "main.js.map": "/static/js/main.d28fa582.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e0980223.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e0980223.js.map",
+    "static/css/2.ec9cc24f.chunk.css": "/static/css/2.ec9cc24f.chunk.css",
+    "static/js/2.d320a7ae.chunk.js": "/static/js/2.d320a7ae.chunk.js",
+    "static/js/2.d320a7ae.chunk.js.map": "/static/js/2.d320a7ae.chunk.js.map",
+    "static/js/3.6726d523.chunk.js": "/static/js/3.6726d523.chunk.js",
+    "static/js/3.6726d523.chunk.js.map": "/static/js/3.6726d523.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ec9cc24f.chunk.css.map": "/static/css/2.ec9cc24f.chunk.css.map",
+    "static/css/main.f316896b.chunk.css.map": "/static/css/main.f316896b.chunk.css.map",
+    "static/js/2.d320a7ae.chunk.js.LICENSE.txt": "/static/js/2.d320a7ae.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/websymbols-regular-webfont.b59f1027.svg",
+    "static/media/cyber-sec.jpg": "/static/media/cyber-sec.092e9c1c.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/file.png": "/static/media/file.6c65b8c3.png",
+    "static/media/ngintip-ya.png": "/static/media/ngintip-ya.78cf04ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0980223.js",
+    "static/css/2.ec9cc24f.chunk.css",
+    "static/js/2.d320a7ae.chunk.js",
+    "static/css/main.f316896b.chunk.css",
+    "static/js/main.d28fa582.chunk.js"
+  ]
+}
